@@ -1,1 +1,1 @@
-My repo
+This is a new project for git
